@@ -106,8 +106,8 @@ OverClocked-Helpdesk/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/Ishitaaa26/OverClocked-Helpdesk.git
-cd OverClocked-Helpdesk
+git clone https://github.com/Tvenus/helpdesk-system.git
+cd helpdesk-system
 ```
 
 ### 2. Create and activate virtual environment
@@ -136,21 +136,4 @@ uvicorn overclocked_helpdesk.main:app --reload
 
 ---
 
-## Use Case
-
-This project is ideal for:
-
-* Hackathons
-* College technical events
-* Internal tech fests
-* Any event where teams need quick access to mentors
-
----
-
-## Future Scope
-
-* Authentication for admins and mentors
-* Real time updates using WebSockets
-* Deployment support using Docker
-* Analytics dashboard for admins
 
